@@ -13,7 +13,7 @@ It enables administrators to upload, parse, view, and analyse employee time logs
 
 ## 🧱 Tech Stack  
 - **Backend**: Django (Python) — `manage.py`, `requirements.txt`, `Pipfile` indicate a Django app.  
-- **Frontend**: Located in the `frontend/` folder (presumably React, Angular or similar).  
+- **Frontend**: Located in the `frontend/` folder written in REACT.  
 - CSV handling large-scale datasets (optimsed file processing).  
 - Git for versioning; repository located at: [https://github.com/syedahmedshah2023/wfcadmin](https://github.com/syedahmedshah2023/wfcadmin)
 
