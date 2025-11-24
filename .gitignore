@@ -1,0 +1,7 @@
+dockerfile
+pyspark.py
+test.json
+test.sql
+db.sqlite3
+frontend/wfcadmin/node_modules/
+venv/
